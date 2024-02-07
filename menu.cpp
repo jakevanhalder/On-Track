@@ -10,6 +10,7 @@ void Menu::menu()
         std::cout << "1. Home" << std::endl;
 		std::cout << "2. Planner" << std::endl;
 		std::cout << "3. Expenses" << std::endl;
+        std::cout << "4. Exit" << std::endl;
 
         int choice = 0; // getting the choice the user wants to make
 
@@ -17,7 +18,7 @@ void Menu::menu()
 		{
 			std::cout << "Input:";
 			std::cin >> choice;
-		} while (choice < 1 || choice > 3);
+		} while (choice < 1 || choice > 4);
 
         switch (choice)
         {
@@ -31,6 +32,15 @@ void Menu::menu()
         case 2:
 
             break;
+        
+        case 3:
+            break;
+
+        case 4:
+            running = 0;
+            
+            break;
+
         default:
             break;
         }

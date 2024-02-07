@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -fopenmp -g CMakeFiles/onTrack.dir/main.cpp.o CMakeFiles/onTrack.dir/menu.cpp.o CMakeFiles/onTrack.dir/home.cpp.o -o onTrack 

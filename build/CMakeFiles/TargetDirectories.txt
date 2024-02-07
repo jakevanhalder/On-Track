@@ -1,0 +1,3 @@
+/home/jake/onTrack/On-Track/build/CMakeFiles/onTrack.dir
+/home/jake/onTrack/On-Track/build/CMakeFiles/edit_cache.dir
+/home/jake/onTrack/On-Track/build/CMakeFiles/rebuild_cache.dir
