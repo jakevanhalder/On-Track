@@ -585,8 +585,12 @@ CMakeFiles/onTrack.dir/menu.cpp.o: /home/jake/onTrack/On-Track/menu.cpp \
   /usr/include/x86_64-linux-gnu/c++/12/bits/basic_file.h \
   /usr/include/x86_64-linux-gnu/c++/12/bits/c++io.h \
   /usr/include/c++/12/bits/fstream.tcc \
-  /home/jake/onTrack/On-Track/home.h
+  /home/jake/onTrack/On-Track/home.h \
+  /home/jake/onTrack/On-Track/planner.h \
+  /home/jake/onTrack/On-Track/expenses.h
 
+
+/home/jake/onTrack/On-Track/expenses.h:
 
 /home/jake/onTrack/On-Track/menu.cpp:
 
@@ -943,6 +947,8 @@ CMakeFiles/onTrack.dir/menu.cpp.o: /home/jake/onTrack/On-Track/menu.cpp \
 /usr/include/c++/12/bits/new_allocator.h:
 
 /usr/include/c++/12/bits/cxxabi_forced.h:
+
+/home/jake/onTrack/On-Track/planner.h:
 
 /usr/include/x86_64-linux-gnu/c++/12/bits/ctype_base.h:
 

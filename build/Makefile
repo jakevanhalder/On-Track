@@ -129,6 +129,30 @@ onTrack/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/onTrack.dir/build.make CMakeFiles/onTrack.dir/build
 .PHONY : onTrack/fast
 
+expenses.o: expenses.cpp.o
+.PHONY : expenses.o
+
+# target to build an object file
+expenses.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/onTrack.dir/build.make CMakeFiles/onTrack.dir/expenses.cpp.o
+.PHONY : expenses.cpp.o
+
+expenses.i: expenses.cpp.i
+.PHONY : expenses.i
+
+# target to preprocess a source file
+expenses.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/onTrack.dir/build.make CMakeFiles/onTrack.dir/expenses.cpp.i
+.PHONY : expenses.cpp.i
+
+expenses.s: expenses.cpp.s
+.PHONY : expenses.s
+
+# target to generate assembly for a file
+expenses.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/onTrack.dir/build.make CMakeFiles/onTrack.dir/expenses.cpp.s
+.PHONY : expenses.cpp.s
+
 home.o: home.cpp.o
 .PHONY : home.o
 
@@ -201,6 +225,30 @@ menu.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/onTrack.dir/build.make CMakeFiles/onTrack.dir/menu.cpp.s
 .PHONY : menu.cpp.s
 
+planner.o: planner.cpp.o
+.PHONY : planner.o
+
+# target to build an object file
+planner.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/onTrack.dir/build.make CMakeFiles/onTrack.dir/planner.cpp.o
+.PHONY : planner.cpp.o
+
+planner.i: planner.cpp.i
+.PHONY : planner.i
+
+# target to preprocess a source file
+planner.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/onTrack.dir/build.make CMakeFiles/onTrack.dir/planner.cpp.i
+.PHONY : planner.cpp.i
+
+planner.s: planner.cpp.s
+.PHONY : planner.s
+
+# target to generate assembly for a file
+planner.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/onTrack.dir/build.make CMakeFiles/onTrack.dir/planner.cpp.s
+.PHONY : planner.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -210,6 +258,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... onTrack"
+	@echo "... expenses.o"
+	@echo "... expenses.i"
+	@echo "... expenses.s"
 	@echo "... home.o"
 	@echo "... home.i"
 	@echo "... home.s"
@@ -219,6 +270,9 @@ help:
 	@echo "... menu.o"
 	@echo "... menu.i"
 	@echo "... menu.s"
+	@echo "... planner.o"
+	@echo "... planner.i"
+	@echo "... planner.s"
 .PHONY : help
 
 

@@ -1,10 +1,14 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/onTrack.dir/expenses.cpp.o"
+  "CMakeFiles/onTrack.dir/expenses.cpp.o.d"
   "CMakeFiles/onTrack.dir/home.cpp.o"
   "CMakeFiles/onTrack.dir/home.cpp.o.d"
   "CMakeFiles/onTrack.dir/main.cpp.o"
   "CMakeFiles/onTrack.dir/main.cpp.o.d"
   "CMakeFiles/onTrack.dir/menu.cpp.o"
   "CMakeFiles/onTrack.dir/menu.cpp.o.d"
+  "CMakeFiles/onTrack.dir/planner.cpp.o"
+  "CMakeFiles/onTrack.dir/planner.cpp.o.d"
   "onTrack"
   "onTrack.pdb"
 )
