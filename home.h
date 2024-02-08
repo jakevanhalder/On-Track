@@ -1,3 +1,6 @@
+#ifndef HOME_H
+#define HOME_H
+
 #include "includes.h"
 
 class Home
@@ -58,3 +61,5 @@ private:
     */
     void bathroom();
 };
+
+#endif

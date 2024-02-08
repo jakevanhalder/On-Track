@@ -1,14 +1,14 @@
-#include "home.h"
+#include "planner.h"
 
-void Home::home()
+void Planner::planner()
 {
     int choice;
 
     std::cout << "\n" << std::endl;
-    std::cout << "1. Maintenance" << std::endl;
-	std::cout << "2. Kitchen" << std::endl;
-	std::cout << "3. Car" << std::endl;
-    std::cout << "4. Bathroom" << std::endl;
+    std::cout << "1. Shopping List" << std::endl;
+	std::cout << "2. Block Schedule" << std::endl;
+	std::cout << "3. Weekly To-Do List" << std::endl;
+    std::cout << "4. Weekly Meal List" << std::endl;
     std::cout << "5. Back" << std::endl;
 
     do
@@ -20,26 +20,26 @@ void Home::home()
     switch (choice)
     {
     case 1:
-
-        maintenance();
+        
+        shoppingList();
 
         break;
 
     case 2:
 
-        food();
+        blockSchedule();
 
         break;
 
     case 3:
 
-        car();
+        toDoList();
 
         break;
 
     case 4:
 
-        bathroom();
+        mealList();
 
         break;
 
@@ -54,22 +54,22 @@ void Home::home()
     }
 }
 
-void Home::maintenance()
+void Planner::shoppingList()
 {
 
 }
 
-void Home::food()
+void Planner::blockSchedule()
 {
 
 }
 
-void Home::car()
+void Planner::toDoList()
 {
 
 }
 
-void Home::bathroom()
+void Planner::mealList()
 {
 
 }

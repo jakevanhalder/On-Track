@@ -1,5 +1,7 @@
 #include "menu.h"
 #include "home.h"
+#include "planner.h"
+#include "expenses.h"
 
 void Menu::menu()
 {
@@ -30,10 +32,17 @@ void Menu::menu()
             break;
         
         case 2:
+            Planner planner;
+
+            planner.planner();
 
             break;
         
         case 3:
+            Expenses expenses;
+
+            expenses.expenses();
+            
             break;
 
         case 4:
