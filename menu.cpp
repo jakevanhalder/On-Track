@@ -9,6 +9,7 @@ void Menu::menu()
 
     while (running == 1)
     {
+        std::cout << "\n";
         std::cout << "1. Home" << std::endl;
 		std::cout << "2. Planner" << std::endl;
 		std::cout << "3. Expenses" << std::endl;

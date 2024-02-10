@@ -73,71 +73,71 @@ CMakeFiles/onTrack.dir/main.cpp.o: CMakeFiles/onTrack.dir/flags.make
 CMakeFiles/onTrack.dir/main.cpp.o: /home/jake/onTrack/On-Track/main.cpp
 CMakeFiles/onTrack.dir/main.cpp.o: CMakeFiles/onTrack.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jake/onTrack/On-Track/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/onTrack.dir/main.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/onTrack.dir/main.cpp.o -MF CMakeFiles/onTrack.dir/main.cpp.o.d -o CMakeFiles/onTrack.dir/main.cpp.o -c /home/jake/onTrack/On-Track/main.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/onTrack.dir/main.cpp.o -MF CMakeFiles/onTrack.dir/main.cpp.o.d -o CMakeFiles/onTrack.dir/main.cpp.o -c /home/jake/onTrack/On-Track/main.cpp
 
 CMakeFiles/onTrack.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/onTrack.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/jake/onTrack/On-Track/main.cpp > CMakeFiles/onTrack.dir/main.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/jake/onTrack/On-Track/main.cpp > CMakeFiles/onTrack.dir/main.cpp.i
 
 CMakeFiles/onTrack.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/onTrack.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/jake/onTrack/On-Track/main.cpp -o CMakeFiles/onTrack.dir/main.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/jake/onTrack/On-Track/main.cpp -o CMakeFiles/onTrack.dir/main.cpp.s
 
 CMakeFiles/onTrack.dir/menu.cpp.o: CMakeFiles/onTrack.dir/flags.make
 CMakeFiles/onTrack.dir/menu.cpp.o: /home/jake/onTrack/On-Track/menu.cpp
 CMakeFiles/onTrack.dir/menu.cpp.o: CMakeFiles/onTrack.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jake/onTrack/On-Track/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/onTrack.dir/menu.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/onTrack.dir/menu.cpp.o -MF CMakeFiles/onTrack.dir/menu.cpp.o.d -o CMakeFiles/onTrack.dir/menu.cpp.o -c /home/jake/onTrack/On-Track/menu.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/onTrack.dir/menu.cpp.o -MF CMakeFiles/onTrack.dir/menu.cpp.o.d -o CMakeFiles/onTrack.dir/menu.cpp.o -c /home/jake/onTrack/On-Track/menu.cpp
 
 CMakeFiles/onTrack.dir/menu.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/onTrack.dir/menu.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/jake/onTrack/On-Track/menu.cpp > CMakeFiles/onTrack.dir/menu.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/jake/onTrack/On-Track/menu.cpp > CMakeFiles/onTrack.dir/menu.cpp.i
 
 CMakeFiles/onTrack.dir/menu.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/onTrack.dir/menu.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/jake/onTrack/On-Track/menu.cpp -o CMakeFiles/onTrack.dir/menu.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/jake/onTrack/On-Track/menu.cpp -o CMakeFiles/onTrack.dir/menu.cpp.s
 
 CMakeFiles/onTrack.dir/home.cpp.o: CMakeFiles/onTrack.dir/flags.make
 CMakeFiles/onTrack.dir/home.cpp.o: /home/jake/onTrack/On-Track/home.cpp
 CMakeFiles/onTrack.dir/home.cpp.o: CMakeFiles/onTrack.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jake/onTrack/On-Track/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/onTrack.dir/home.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/onTrack.dir/home.cpp.o -MF CMakeFiles/onTrack.dir/home.cpp.o.d -o CMakeFiles/onTrack.dir/home.cpp.o -c /home/jake/onTrack/On-Track/home.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/onTrack.dir/home.cpp.o -MF CMakeFiles/onTrack.dir/home.cpp.o.d -o CMakeFiles/onTrack.dir/home.cpp.o -c /home/jake/onTrack/On-Track/home.cpp
 
 CMakeFiles/onTrack.dir/home.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/onTrack.dir/home.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/jake/onTrack/On-Track/home.cpp > CMakeFiles/onTrack.dir/home.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/jake/onTrack/On-Track/home.cpp > CMakeFiles/onTrack.dir/home.cpp.i
 
 CMakeFiles/onTrack.dir/home.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/onTrack.dir/home.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/jake/onTrack/On-Track/home.cpp -o CMakeFiles/onTrack.dir/home.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/jake/onTrack/On-Track/home.cpp -o CMakeFiles/onTrack.dir/home.cpp.s
 
 CMakeFiles/onTrack.dir/planner.cpp.o: CMakeFiles/onTrack.dir/flags.make
 CMakeFiles/onTrack.dir/planner.cpp.o: /home/jake/onTrack/On-Track/planner.cpp
 CMakeFiles/onTrack.dir/planner.cpp.o: CMakeFiles/onTrack.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jake/onTrack/On-Track/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/onTrack.dir/planner.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/onTrack.dir/planner.cpp.o -MF CMakeFiles/onTrack.dir/planner.cpp.o.d -o CMakeFiles/onTrack.dir/planner.cpp.o -c /home/jake/onTrack/On-Track/planner.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/onTrack.dir/planner.cpp.o -MF CMakeFiles/onTrack.dir/planner.cpp.o.d -o CMakeFiles/onTrack.dir/planner.cpp.o -c /home/jake/onTrack/On-Track/planner.cpp
 
 CMakeFiles/onTrack.dir/planner.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/onTrack.dir/planner.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/jake/onTrack/On-Track/planner.cpp > CMakeFiles/onTrack.dir/planner.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/jake/onTrack/On-Track/planner.cpp > CMakeFiles/onTrack.dir/planner.cpp.i
 
 CMakeFiles/onTrack.dir/planner.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/onTrack.dir/planner.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/jake/onTrack/On-Track/planner.cpp -o CMakeFiles/onTrack.dir/planner.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/jake/onTrack/On-Track/planner.cpp -o CMakeFiles/onTrack.dir/planner.cpp.s
 
 CMakeFiles/onTrack.dir/expenses.cpp.o: CMakeFiles/onTrack.dir/flags.make
 CMakeFiles/onTrack.dir/expenses.cpp.o: /home/jake/onTrack/On-Track/expenses.cpp
 CMakeFiles/onTrack.dir/expenses.cpp.o: CMakeFiles/onTrack.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jake/onTrack/On-Track/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/onTrack.dir/expenses.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/onTrack.dir/expenses.cpp.o -MF CMakeFiles/onTrack.dir/expenses.cpp.o.d -o CMakeFiles/onTrack.dir/expenses.cpp.o -c /home/jake/onTrack/On-Track/expenses.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/onTrack.dir/expenses.cpp.o -MF CMakeFiles/onTrack.dir/expenses.cpp.o.d -o CMakeFiles/onTrack.dir/expenses.cpp.o -c /home/jake/onTrack/On-Track/expenses.cpp
 
 CMakeFiles/onTrack.dir/expenses.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/onTrack.dir/expenses.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/jake/onTrack/On-Track/expenses.cpp > CMakeFiles/onTrack.dir/expenses.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/jake/onTrack/On-Track/expenses.cpp > CMakeFiles/onTrack.dir/expenses.cpp.i
 
 CMakeFiles/onTrack.dir/expenses.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/onTrack.dir/expenses.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/jake/onTrack/On-Track/expenses.cpp -o CMakeFiles/onTrack.dir/expenses.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/jake/onTrack/On-Track/expenses.cpp -o CMakeFiles/onTrack.dir/expenses.cpp.s
 
 # Object files for target onTrack
 onTrack_OBJECTS = \

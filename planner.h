@@ -17,6 +17,8 @@ public:
     */
     void planner();
 
+private:
+
     /**
      * Name: shoppingList()
      * 
@@ -59,6 +61,14 @@ public:
      * Date created: 2/8/2024
      * */ 
     void mealList();
+
+    struct shoppingListTask
+    {
+        std::string name;
+        std::string item;
+        int quantity;
+    };
+    
 };
 
 #endif

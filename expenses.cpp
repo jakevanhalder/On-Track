@@ -2,7 +2,7 @@
 
 void Expenses::expenses()
 {
-    int choice;
+    int choice = 0;
 
     std::cout << "\n" << std::endl;
     std::cout << "1. Living Expenses" << std::endl;
@@ -33,7 +33,7 @@ void Expenses::expenses()
     case 3:
 
         paychecks();
-        
+
         break;
 
     case 4:
